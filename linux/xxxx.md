@@ -6,8 +6,7 @@
 
 * 硬件是计算机赖以工作的实体，包括显示器、键盘、鼠标、硬盘、CPU、主板等；
 * 软件会按照用户的要求协调整台计算机的工作，比如 Windows、Linux、Mac OS、
-  [Android](http://c.biancheng.net/android/)
-  等操作系统，以及 Office、QQ、迅雷、微信等应用程序。
+  [Android](http://c.biancheng.net/android/)等操作系统，以及 Office、QQ、迅雷、微信等应用程序。
 
 **操作系统（Operating System，OS）**
 
