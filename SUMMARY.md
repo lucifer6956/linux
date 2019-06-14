@@ -25,7 +25,7 @@
     * [3.7 Linux ls命令：查看目录下文件](linuxpei-xun/3/37.md)
     * [3.8 Linux mkdir命令：创建目录（文件夹）](linuxpei-xun/3/38.md)
     * [3.9 Linux rmdir命令：删除空目录](linuxpei-xun/3/39.md)
-    * 3.10
+    * [3.10 Linux touch命令：创建文件及修改文件时间戳](linuxpei-xun/3/310-linux-touchming-ling-ff1a-chuang-jian-wen-jian-ji-xiu-gai-wen-jian-shi-jian-chuo.md)
     * 3.11
     * 3.12
     * 3.13
