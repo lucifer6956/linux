@@ -16,8 +16,8 @@
     * [2.3 Linux文件目录结构一览表](linuxpei-xun/2/23.md)
     * [2.4 Linux一切皆文件](linuxpei-xun/2/24.md)
   * [3. Linux文件和目录管理](linuxpei-xun/3.md)
-    * 3.1
-    * 3.2
+    * [3.1 Linux文件系统层次结构](linuxpei-xun/3/31.md)
+    * [3.2 Linux文件（目录）命名规则](linuxpei-xun/3/32.md)
     * 3.3
     * 3.4
     * 3.5
