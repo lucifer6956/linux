@@ -23,7 +23,7 @@ Red Hat 公司的产品主要包括 RHEL（Red Hat Enterprise Linux，收费版�
 
 Red Hat 是在我国国内使用人群最多的 Linux 版本，资料丰富，如果你有什么不明白的地方，则容易找到人来请教，而且大多数
 
-[Linux 教程](http://c.biancheng.net/linux_tutorial/)是以 Red Hat 为例来讲解的（包括本教程）。
+Linux 教程是以 Red Hat 为例来讲解的（包括本教程）。
 
 本教程以我国国内互联网公司常用的 Linux 发行版本 CentOS 为例讲解，它是基于 Red Hat Enterprise Linux 源代码重新编译、去除 Red Hat 商标的产物，各种操作使用和付费版本没有区别，且完全免费。缺点是不向用户提供技术支持，也不负任何商业责任。有实力的公司可以选择付费版本。
 
