@@ -6,7 +6,7 @@
   * [1.Linux系统简介](linuxpei-xun/1linuxxi-tong-jian-jie.md)
     * [1.1 操作系统是什么，操作系统概述](linuxpei-xun/1linuxxi-tong-jian-jie/11.md)
     * [1.2 Linux和UNIX的关系及区别（详解版）](linuxpei-xun/1linuxxi-tong-jian-jie/12.md)
-    * 1.3
-    * 1.4
+    * [1.3 类UNIX系统详解](linuxpei-xun/1linuxxi-tong-jian-jie/13.md)
+    * [1.4](linuxpei-xun/1linuxxi-tong-jian-jie/14.md)
     * 1.5
 
