@@ -29,5 +29,5 @@
     * [3.11 Linux cp命令：复制文件和目录](linuxpei-xun/3/311.md)
     * [3.12 Linux rm命令：删除文件或目录](linuxpei-xun/3/312.md)
     * [3.13 Linux mv命令：移动文件或改名](linuxpei-xun/3/313.md)
-    * [3.14](linuxpei-xun/3/314.md)
+    * [3.14 其他基础命令](linuxpei-xun/3/314.md)
 
