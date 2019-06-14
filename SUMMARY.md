@@ -18,7 +18,7 @@
   * [3. Linux文件和目录管理](linuxpei-xun/3.md)
     * [3.1 Linux文件系统层次结构](linuxpei-xun/3/31.md)
     * [3.2 Linux文件（目录）命名规则](linuxpei-xun/3/32.md)
-    * 3.3
+    * [3.3](linuxpei-xun/3/33.md)
     * 3.4
     * 3.5
     * 3.6
