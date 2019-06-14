@@ -19,7 +19,7 @@
     * [3.1 Linux文件系统层次结构](linuxpei-xun/3/31.md)
     * [3.2 Linux文件（目录）命名规则](linuxpei-xun/3/32.md)
     * [3.3 Linux绝对路径和相对路径](linuxpei-xun/3/33.md)
-    * [3.4](linuxpei-xun/3/34.md)
+    * [3.4 Linux命令基本格式](linuxpei-xun/3/34.md)
     * 3.5
     * 3.6
     * 3.7
