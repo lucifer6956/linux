@@ -28,6 +28,5 @@
     * [3.10 Linux touch命令：创建文件及修改文件时间戳](linuxpei-xun/3/310-linux-touchming-ling-ff1a-chuang-jian-wen-jian-ji-xiu-gai-wen-jian-shi-jian-chuo.md)
     * [3.11 Linux cp命令：复制文件和目录](linuxpei-xun/3/311.md)
     * [3.12 Linux rm命令：删除文件或目录](linuxpei-xun/3/312.md)
-    * [3.14 其他基础命令](linuxpei-xun/3/314-qi-ta-ji-chu-ming-ling.md)
     * [3.14](linuxpei-xun/3/314.md)
 
