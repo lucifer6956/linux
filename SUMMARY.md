@@ -15,4 +15,14 @@
     * [2.2 Linux使用注意事项](linuxpei-xun/2/22.md)
     * [2.3 Linux文件目录结构一览表](linuxpei-xun/2/23.md)
     * [2.4 Linux一切皆文件](linuxpei-xun/2/24.md)
+  * [3. Linux文件和目录管理](linuxpei-xun/3.md)
+    * 3.1
+    * 3.2
+    * 3.3
+    * 3.4
+    * 3.5
+    * 3.6
+    * 3.7
+    * 3.8
+    * 3.9
 
