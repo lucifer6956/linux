@@ -23,6 +23,6 @@
     * [3.5 Linux cd命令：切换目录](linuxpei-xun/3/35.md)
     * [3.6 Linux pwd命令：显示当前路径](linuxpei-xun/3/36.md)
     * [3.7 Linux ls命令：查看目录下文件](linuxpei-xun/3/37.md)
-    * 3.8
+    * [3.8 Linux mkdir命令：创建目录（文件夹）](linuxpei-xun/3/38.md)
     * 3.9
 
