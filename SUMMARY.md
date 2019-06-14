@@ -14,7 +14,7 @@
     * [2.1 VMware虚拟机安装Linux系统\(详解版\)](linuxpei-xun/2/21.md)
     * [2.2 Linux使用注意事项](linuxpei-xun/2/22.md)
     * [2.3 Linux文件目录结构一览表](linuxpei-xun/2/23-linuxwen-jian-mu-lu-jie-gou-yi-lan-biao.md)
-    * 2.4
+    * [2.4 Linux一切皆文件](linuxpei-xun/2/24.md)
     * 2.5
     * 2.6
 
