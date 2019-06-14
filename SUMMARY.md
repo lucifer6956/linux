@@ -25,4 +25,8 @@
     * [3.7 Linux ls命令：查看目录下文件](linuxpei-xun/3/37.md)
     * [3.8 Linux mkdir命令：创建目录（文件夹）](linuxpei-xun/3/38.md)
     * 3.9
+    * 3.10
+    * 3.11
+    * 3.12
+    * 3.13
 
