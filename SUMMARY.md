@@ -20,7 +20,7 @@
     * [3.2 Linux文件（目录）命名规则](linuxpei-xun/3/32.md)
     * [3.3 Linux绝对路径和相对路径](linuxpei-xun/3/33.md)
     * [3.4 Linux命令基本格式](linuxpei-xun/3/34.md)
-    * 3.5
+    * [3.5 Linux cd命令：切换目录](linuxpei-xun/3/35.md)
     * 3.6
     * 3.7
     * 3.8
