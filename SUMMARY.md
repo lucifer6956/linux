@@ -21,7 +21,7 @@
     * [3.3 Linux绝对路径和相对路径](linuxpei-xun/3/33.md)
     * [3.4 Linux命令基本格式](linuxpei-xun/3/34.md)
     * [3.5 Linux cd命令：切换目录](linuxpei-xun/3/35.md)
-    * 3.6
+    * [3.6 Linux pwd命令：显示当前路径](linuxpei-xun/3/36.md)
     * 3.7
     * 3.8
     * 3.9
